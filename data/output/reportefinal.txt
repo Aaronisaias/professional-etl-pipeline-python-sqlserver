@@ -1,0 +1,13 @@
+
+    === Reporte Final ===
+    Fecha:<class 'datetime.datetime'>
+    Archivo Original:datos_desnormalizados_5000.csv
+    Archivo Normalizado:datosnormalizados.csv
+    Cantidad de Registros:5200
+    Cantidad de Filas Eliminadas:0
+    Cantidad de Columnas:10
+    Cantidad de Filas:5200
+    Estado:Completado    
+    === Reporte Finalizado ===
+    
+Se encontraron errores:
